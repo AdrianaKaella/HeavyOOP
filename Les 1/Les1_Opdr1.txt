@@ -1,0 +1,8 @@
+> welke objecten spelen volgens jou een rol?
+< Cirkel die pad volgt (1), cirkel die willekeurig beweegt(2).
+
+> Wat zijn de attributen (variabelen) van die objecten?
+< Formaat, kleur, positie (1&2).
+
+> Wat voor gedrag moeten die objecten hebben?
+< Groeien/krimpen (1&2), pad volgen (1), willekeurig bewegen (2), verdwijnen (2).
